@@ -64,3 +64,12 @@ def loadConfig():
         data["showDepartureNumbers"] = True
 
     return data
+
+{
+  "station": "WAT",
+  "train_display_duration": 30,
+  "spotify_display_duration": 10,
+  "spotify_client_id": "YOUR_SPOTIFY_CLIENT_ID",
+  "spotify_client_secret": "YOUR_SPOTIFY_CLIENT_SECRET"
+}
+
