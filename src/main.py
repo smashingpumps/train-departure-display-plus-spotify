@@ -4,7 +4,6 @@
 
 import time
 import json
-from display import Display
 from spotify_display import SpotifyNowPlaying
 
 
